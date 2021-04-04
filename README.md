@@ -15,6 +15,9 @@ I was able to build the project for Android OS.
 
 You can download binaries for Windows and Android from releases.
 
+_I'm not a C++ developer, and I'm not really much familiar with Visual Studio,
+so there may be some unnecessary files and/or other awkward goofs._ 
+
 ## Screenshots
 
 ![Screenshot of Terrific Traffic Simulator](screen1.jpg)
