@@ -22,3 +22,5 @@ so there may be some unnecessary files and/or other awkward goofs._
 
 ![Screenshot of Terrific Traffic Simulator](screen1.jpg)
 ![Screenshot of Terrific Traffic Simulator](screen2.jpg)
+![Screenshot of Terrific Traffic Simulator](screen3.jpg)
+![Screenshot of Terrific Traffic Simulator](screen4.jpg)
